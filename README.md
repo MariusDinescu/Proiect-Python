@@ -1,0 +1,2 @@
+Acest proiect prezinta  analiza datelor pentru examinarea diverselor  caracteristici ale vinului alb și vinul roșu, cum ar fi aciditatea fixă, aciditatea volatilă, aciditatea citrică, zahărul rezidual, etc. Scopul acestui proiect este de a înțelege relația dintre aceste caracteristici și calitatea vinului, precum și de a identifica eventualele diferențe între vinul alb și vinul roșu.
+Pentru a atinge acest scop, vom utiliza diverse tehnici de analiză de date, cum ar fi descrierea statistică, analiza exploratorie de date și modelarea.
